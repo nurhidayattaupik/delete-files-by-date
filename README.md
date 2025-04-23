@@ -1,0 +1,1 @@
+File Di Bawah Ini Bertujuan Untuk menghapus beberapa file dengan modifikasi tanggal atau tanggal yang sama secara bersamaan dalam suatu foldernya di bahasa bash yang biasa sering di gunakan di sistem operasi linux/unix
